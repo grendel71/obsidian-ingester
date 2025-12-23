@@ -17,6 +17,7 @@ mappings = {"QF106":f"{baseDir}/20 - Education/21 - College/21.3 Semester 3/21.3
             "QF101":f"{baseDir}/20 - Education/21 - College/21.3 Semester 3/21.3.60 QF 101",
             "General School":f"{baseDir}/20 - Education/21 - College/21.3 Semester 3",
             "Journal":f"{baseDir}/30 - Journal",
+	    "CH115":f"{baseDir}/20 - Education/21 - College/Winter 2025/Chem",
             }
 
 
