@@ -10,6 +10,8 @@ vaultDir = "/home/blau/Documents/Vault/Vault/Imports/"
 
 baseDir = "/home/blau/Documents/Vault/Vault"
 
+lazyBaseDir = "/home/blau/Documents/Vault/Vault/20 - Education/21 - College/"
+
 mappings = {"QF106":f"{baseDir}/20 - Education/21 - College/21.3 Semester 3/21.3.70 QF 106",
             "MA126":f"{baseDir}/20 - Education/21 - College/21.3 Semester 3/21.3.45 MA 126",
             "CS115":f"{baseDir}/20 - Education/21 - College/21.3 Semester 3/21.3.10 CS 115",
@@ -18,6 +20,10 @@ mappings = {"QF106":f"{baseDir}/20 - Education/21 - College/21.3 Semester 3/21.3
             "General School":f"{baseDir}/20 - Education/21 - College/21.3 Semester 3",
             "Journal":f"{baseDir}/30 - Journal",
 	    "Chem":f"{baseDir}/20 - Education/21 - College/Winter 2025/Chem",
+        "MA232":f"{lazyBaseDir}/Semester 5/MA232",
+        "MA222":f"{lazyBaseDir}/Semester 5/MA222",
+        "CS135":f"{lazyBaseDir}/Semester 5/CS135",
+	"CS284":f"{lazyBaseDir}/Semester 5/CS284",
             }
 
 
